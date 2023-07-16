@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielvoff&layout=compact&theme=radical">
+</div>
+
 👋 Hi, I’m @nielvoff
 - 👀 I’m interested in Backend Developer and DevOps
 - 🌱 I’m currently learning Eslint and Docker
