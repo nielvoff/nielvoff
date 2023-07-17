@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielvoff&layout=compact&theme=discord_old_blurple" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielvoff&layout=compact&theme=discord_old_blurple" width="35%" style="border: none;">
 </div>
 
 👋 Hi, I’m @nielvoff
